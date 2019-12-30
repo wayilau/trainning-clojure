@@ -5,5 +5,11 @@
             :url "https://www.eclipse.org/legal/epl-2.0/"}
   :main liu.learning.hello
   :dependencies [[org.clojure/clojure "1.10.0"]
-                 [clj-time/clj-time "0.14.2"]]
-  :repl-options {:init-ns clojure-lein.hello})
+                 [clj-time/clj-time "0.14.2"]
+                 [compojure "1.6.1"]
+                 [ring/ring-defaults "0.3.2"]
+                 [camel-snake-kebab "0.2.4"]]
+  :repl-options {:init-ns clojure-lein.hello}
+  :plugins  [[lein-ring "0.12.5"]]
+  :ring {:handler clojure_lein.handler/web})
+

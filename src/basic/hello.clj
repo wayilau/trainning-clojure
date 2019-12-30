@@ -1,4 +1,4 @@
-(ns liu.learning.hello
+(ns basic.hello
 (:require [clj-time.core :as t]
   [clj-time.format :as f]))
 

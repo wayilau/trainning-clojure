@@ -1,4 +1,4 @@
-(ns liu.learning.testbasic)
+(ns basic.testbasic)
 
 (println   (+ 7654 1234) )
 

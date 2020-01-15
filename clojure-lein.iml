@@ -33,7 +33,7 @@
     <orderEntry type="library" name="Leiningen: medley:1.0.0" level="project" />
     <orderEntry type="library" name="Leiningen: nrepl:0.6.0" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/clojure:1.10.0" level="project" />
-    <orderEntry type="library" name="Leiningen: org.clojure/core.async:0.6.532" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/core.async:0.7.559" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/core.cache:0.8.2" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/core.memoize:0.8.2" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/core.specs.alpha:0.2.44" level="project" />

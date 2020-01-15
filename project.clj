@@ -9,7 +9,7 @@
                  [compojure "1.6.1"]
                  [ring/ring-defaults "0.3.2"]
                  [camel-snake-kebab "0.2.4"]
-                 [org.clojure/core.async "0.6.532"]
+                 [org.clojure/core.async "0.7.559"]
                  [cheshire "5.9.0"]]
   :repl-options {:init-ns clojure-lein.hello}
   :plugins  [[lein-ring "0.12.5"]]

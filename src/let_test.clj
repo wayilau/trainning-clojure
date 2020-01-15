@@ -4,7 +4,7 @@
 
 (def some-one {:id 123 :name "john" :age 18 :job "enginneer" :sex "male"})
 
-(defn lettests
+(defn- lettests
   "this file is learning let.
   let is a var bind operate. the tests shows how let using in clojure."
   []
@@ -22,6 +22,6 @@
   (let [[x y &z :as all] arr] (println all))
   )
 
-(defn -main [&  args]
+(defn -main [& args]
   (lettests)
   )

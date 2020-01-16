@@ -16,7 +16,7 @@ clojure里有很多符号，在google里都查不到，这里给出解释。
 10. ## 符号值
 11. % %n %&是匿名函数的参数
 12. @ 用来舞台当前引用的值。
-13 ^ (and #^) metadata marker.
+13 ^ (and #^) metadata marker
 
 
 
